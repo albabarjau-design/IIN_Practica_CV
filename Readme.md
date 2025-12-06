@@ -10,4 +10,5 @@ int num = int.Parse(Console.ReadLine());
 ---
 #IMAGEN
 ![la imagen no carga](imagene/1151-9022-BUFADOR.png)
-
+---
+#"AUTOR" : ALBA BARJAU
